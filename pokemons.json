@@ -1,0 +1,15 @@
+{
+	"pokemons": [{
+		"id": 1,
+		"name": "Pika pika"
+    },
+    {
+		"id": 2,
+		"name": "Pika pika 2"
+    },
+    {
+		"id": 3,
+		"name": "Char"
+    }  
+]
+}

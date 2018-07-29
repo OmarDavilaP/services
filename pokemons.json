@@ -1,16 +1,16 @@
 {
 	"pokemons": [{
-		"id": 1,
-		"name": "Pika pika",
+		"id": 25,
+		"name": "Pikachu",
 		"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
     },
     {
-		"id": 2,
+		"id": 30,
 		"name": "Pika pika 2",
-	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
     },
     {
-		"id": 3,
+		"id": 27,
 		"name": "Char",
 	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
     }  

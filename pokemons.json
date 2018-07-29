@@ -2,17 +2,17 @@
 	"pokemons": [{
 		"id": 1,
 		"name": "Pika pika",
-		"image":"http://4.bp.blogspot.com/-hF2J49MnRZY/UrHrN2sRlZI/AAAAAAAAEKg/rZCOEEhL9uk/s1600/05+Charmeleon.PNG"
+		"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
     },
     {
 		"id": 2,
 		"name": "Pika pika 2",
-	    	"image":"https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/138.png"
+	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
     },
     {
 		"id": 3,
 		"name": "Char",
-	    	"image":"https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/139.png"
+	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
     }  
 ]
 }

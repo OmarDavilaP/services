@@ -3,25 +3,25 @@
 		"id": 25,
 		"name": "Pikachu",
 		"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]
+		"level":[ {"level": 0,"moves": [{"move": "machine-Pikachu"}, {"move": "yellow"},{"move": "Strong against Fire"}]},{"level": 1,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]
     },
     {
 		"id": 26,
 		"name": "Raichu",
 	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
-		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]
+		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "Strong against Water"}]},{"level": 1,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]
     },
     {
 		"id": 27,
 		"name": "Sandshrew",
 	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
-		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
+		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "Strong against Fire"}]},{"level": 1,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
     },
     {
 		"id": 80,
 		"name": "Slowbro",
 	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
-		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
+		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "Strong against Electricity"}]},{"level": 1,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
     },
     {
 		"id": 29,

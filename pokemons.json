@@ -2,7 +2,9 @@
 	"pokemons": [{
 		"id": 25,
 		"name": "Pikachu",
-		"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+		"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+		"Level": [0, 1, 2, 3, 4, 5],
+		"moves":[ {"level": 1,"moves": [{"move": "movewwwwww"}, {"move": "movewwwwww"}]},{"level": 2,"moves": [{"move": "movewwwwww"}, {"move": "movewwwwww"}]}]
     },
     {
 		"id": 30,

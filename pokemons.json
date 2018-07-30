@@ -9,7 +9,7 @@
     {
 		"id": 26,
 		"name": "Pika pika 2",
-	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
 	    	"Level": [0, 1, 2, 3],
 		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]
     },
@@ -30,28 +30,28 @@
     {
 		"id": 29,
 		"name": "Char",
-	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
 		"Level": [0, 1, 2, 3],
 		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
     },
     {
 		"id": 30,
 		"name": "Char",
-	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
 		"Level": [0, 1, 2, 3],
 		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
     },
     {
 		"id": 31,
 		"name": "Char",
-	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
 		"Level": [0, 1, 2, 3],
 		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
     },
     {
 		"id": 32,
 		"name": "Char",
-	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
 		"Level": [0, 1, 2, 3],
 		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
     } 		     

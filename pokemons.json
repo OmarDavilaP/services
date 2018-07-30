@@ -3,7 +3,7 @@
 		"id": 25,
 		"name": "Pikachu",
 		"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]
+		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]
     },
     {
 		"id": 26,

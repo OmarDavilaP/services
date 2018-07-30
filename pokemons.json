@@ -3,57 +3,49 @@
 		"id": 25,
 		"name": "Pikachu",
 		"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-		"Level": [0, 1, 2, 3],
 		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]
     },
     {
 		"id": 26,
 		"name": "Raichu",
 	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
-	    	"Level": [0, 1, 2, 3],
-		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]
+		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]
     },
     {
 		"id": 27,
 		"name": "Sandshrew",
 	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
-		"Level": [0, 1, 2, 3],
-		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
+		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
     },
     {
 		"id": 80,
 		"name": "Slowbro",
 	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
-		"Level": [0, 1, 2, 3],
-		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
+		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
     },
     {
 		"id": 29,
 		"name": "Nidoran-f",
 	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
-		"Level": [0, 1, 2, 3],
-		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
+		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
     },
     {
 		"id": 30,
 		"name": "Nidorina",
 	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
-		"Level": [0, 1, 2, 3],
 		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
     },
     {
 		"id": 31,
 		"name": "Nidoqueen",
 	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
-		"Level": [0, 1, 2, 3],
-		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
+		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
     },
     {
 		"id": 100,
 		"name": "Voltorb",
 	    	"image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
-		"Level": [0, 1, 2, 3],
-		"moves":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
+		"level":[ {"level": 0,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 3,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]},{"level": 2,"moves": [{"move": "machine"}, {"move": "yellow"},{"move": "red-blue"}]}]	    
     } 		     
 ]
 }
